@@ -2,7 +2,7 @@
 # 🚀 Fraud & Damage Detector
 
 An AI-powered system that detects **fraudulent claims** and **physical damage** from images using **IBM Watson Visual Recognition** and **Roboflow**.
-Built with 💙 for automation, accuracy, and speed in insurance & asset verification industries.
+Built with 💖 for automation, accuracy, and speed in insurance & asset verification industries.
 
 ---
 
