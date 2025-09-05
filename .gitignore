@@ -1,0 +1,42 @@
+# ----------------------
+# Python cache / build
+# ----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ----------------------
+# Virtual environments
+# ----------------------
+.env
+*.env
+.venv/
+venv/
+ENV/
+env/
+.venv.bak/
+pip-wheel-metadata/
+
+# ----------------------
+# VS Code / IDE settings
+# ----------------------
+.vscode/
+.idea/
+*.swp
+
+# ----------------------
+# OS generated files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Logs
+# ----------------------
+*.log

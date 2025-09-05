@@ -1,0 +1,4 @@
+gradio
+requests
+IBM Watson API
+Roboflow API
